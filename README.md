@@ -1,7 +1,7 @@
 ### Hello there! please call me by my pronoun or you can call me "Boeing AH-64 Apache" 👋
 Mentor for DevOps @ Dumbways.id | Part of [ハッピートリガー](https://happytrigger.net "Happy Trigger")
 
-Honestly i only use github when it's necessary, but feel free to look around!
+Feel free to look around!
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ademuh&theme=tokyonight)
 
